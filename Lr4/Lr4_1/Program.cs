@@ -5,6 +5,8 @@ double UpperCase(int a, int b)
     return c;
 }
 
+int r;
+int g;
 string stroka = Console.ReadLine();
 Console.WriteLine($"Строка, преобразованная к верхнему ркгистру: {UpperCase(stroka)}");
 
