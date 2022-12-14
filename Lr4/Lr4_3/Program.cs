@@ -7,6 +7,7 @@ int Function(int n, int i)
         return 1;
     }
 
+    // Редактирование
     else
     {
         if (i <= n)
