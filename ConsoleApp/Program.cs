@@ -18,6 +18,7 @@ namespace Model
             var stark = new Person("Tony", "Stark", 38, Gender.Male);
             var halk = new Person("Bruce", "Banner", 46, Gender.Male);
             var natasha = new Person("Natasha", "Romanova", 39, Gender.Female);
+            var natasha1 = new Person("Natasha", "Romanova", 39, Gender.Female);
             listAvengers.AddPerson(stark);
             listAvengers.AddPerson(halk);
             listAvengers.AddPerson(natasha);
